@@ -29,3 +29,21 @@ The dashboard enables:
 - Monthly Target Reached
 - Salesperson Performance Analysis
 - Target Status
+
+  ## Tools & Technologies Used
+
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Microsoft Excel
+
+## Dashboard Features
+
+- Interactive dashboard design
+- Monthly Actual vs Target sales comparison
+- Variance and variance percentage analysis
+- Salesperson-level performance tracking
+- Dynamic filtering using slicers
+- Trend analysis and KPI monitoring
+- Business insights using visual storytelling
